@@ -1,0 +1,17 @@
+#Ignore the large dataset
+
+allcars.csv
+
+#Ignore linux .folder
+
+*.directory
+
+
+#Ignore ipython hidden files
+
+*.ipynb_checkpoints
+
+#Avoid charge large datasets to Bitbucket
+
+
+*.csv

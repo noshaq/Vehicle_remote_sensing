@@ -2,8 +2,6 @@
 
 allcars.csv
 
-features124.xlsx
-
 #Ignore linux .folder
 
 *.directory

@@ -17,3 +17,10 @@ features124.xlsx
 
 
 *.csv
+
+
+# Avoid charge Plots in GitHub
+
+*.png
+*.svg
+*.html

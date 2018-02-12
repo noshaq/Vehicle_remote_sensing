@@ -18,6 +18,7 @@ features124.xlsx
 
 *.csv
 *.xlsx
+*.txt
 
 # Avoid charge Plots in GitHub
 
